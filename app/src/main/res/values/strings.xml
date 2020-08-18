@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyBookStore</string>
+    <string name="placeholder_for_book">Placeholder for book</string>
+</resources>
